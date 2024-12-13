@@ -1,0 +1,28 @@
+# Direktori node_modules
+node_modules/
+
+# Direktori result
+result/
+
+# Folder yang dibuat editor (VSCode)
+.vscode/
+
+# File lock
+package-lock.json
+yarn.lock
+
+# Direktori output
+dist/
+build/
+
+# Folder hasil sistem
+.DS_Store
+Thumbs.db
+
+# File konfigurasi IDE (Opsional)
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

@@ -1,0 +1,11 @@
+{
+    "type": "module",
+    "dependencies": {
+        "app-store-scraper": "^0.18.0",
+        "google-play-scraper": "^10.0.1",
+        "xlsx": "^0.18.5"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
